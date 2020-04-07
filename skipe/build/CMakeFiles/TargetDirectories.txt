@@ -1,0 +1,7 @@
+/home/ashish/FFMPEG_GIT/skipe/build/CMakeFiles/install/strip.dir
+/home/ashish/FFMPEG_GIT/skipe/build/CMakeFiles/install/local.dir
+/home/ashish/FFMPEG_GIT/skipe/build/CMakeFiles/edit_cache.dir
+/home/ashish/FFMPEG_GIT/skipe/build/CMakeFiles/mediatest.dir
+/home/ashish/FFMPEG_GIT/skipe/build/CMakeFiles/rebuild_cache.dir
+/home/ashish/FFMPEG_GIT/skipe/build/CMakeFiles/list_install_components.dir
+/home/ashish/FFMPEG_GIT/skipe/build/CMakeFiles/install.dir

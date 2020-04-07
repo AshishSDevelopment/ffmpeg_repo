@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -fstack-protector-all  -rdynamic CMakeFiles/mediatest.dir/player.cpp.o CMakeFiles/mediatest.dir/main.cpp.o CMakeFiles/mediatest.dir/streampacket.cpp.o  -o mediatest -lavdevice -lavformat -lavfilter -lavcodec -lavutil -lswscale -lswresample -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread 

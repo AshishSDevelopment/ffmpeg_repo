@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -fstack-protector-all  -rdynamic CMakeFiles/mediaffmpeg.dir/mediaffmpegimpl.cpp.o CMakeFiles/mediaffmpeg.dir/mediaffmpegclient.cpp.o CMakeFiles/mediaffmpeg.dir/maintest.cpp.o  -o mediaffmpeg -lavdevice -lavformat -lavfilter -lavcodec -lavutil -lswscale -lswresample -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread 
